@@ -1,0 +1,50 @@
+body {
+    background-color: darkslategrey;
+}
+
+.titulo {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    font-family: Arial;
+
+}
+
+.subtitulo {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial;
+
+}
+
+h1 {
+    color: crimson;
+    font-family: Arial;
+
+}
+
+
+div {
+    background-color: rgba(29, 25, 25, 0.814);
+}
+
+.musica {
+    color: cyan
+}
+
+img {
+    width: 250px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+p {
+    font-family: Arial;
+    font-size: 25px;
+    color: white
+}
